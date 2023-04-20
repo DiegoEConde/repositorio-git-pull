@@ -1,2 +1,2 @@
-# repositorio para practicar Git Pull
+# repositorio para practicar Git Pull (prueba fetch)
 Repositorio para practicar el comando Git Pull
